@@ -36,6 +36,7 @@ const Tagline = styled.h3`
     color: ${lightColor};
 `
 
+
 const Header = ({ siteTitle, siteDesc }) => (
     <HeaderWrapper>
         <HeaderContainer>
